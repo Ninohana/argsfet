@@ -2,6 +2,13 @@
 
 A dll for fetch the process command line.
 
+# function
+
+- GetCommandLineByProcessId
+- GetProcessIdByName
+
+see `argsfet.hpp`
+
 # quick start
 
 ```bash
